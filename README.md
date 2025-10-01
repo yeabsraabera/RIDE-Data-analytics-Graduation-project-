@@ -39,9 +39,7 @@ Ride Duration & Distance Patterns: Insights into trip characteristics.
 
 Clone the repository:
 
-git clone https://github.com/your-username/ride-hailing-data-analysis.git
-
-
+git clone : (https://github.com/yeabsraabera/RIDE-Data-analytics-Graduation-project-)
 Open the analysis notebook:
 
 jupyter notebook analysis.ipynb
