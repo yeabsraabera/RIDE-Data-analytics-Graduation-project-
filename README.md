@@ -19,7 +19,7 @@ Demonstrate how data analysis and visualization can support better decision-maki
 
 Languages: Python, SQL
 
-Data Processing: Pandas, PySpark (optional)
+Data Processing: Pandas, PySpark (optional), Jupyter Notebook
 
 Visualization: Matplotlib, Seaborn, Plotly, Power BI / Tableau
 
@@ -41,6 +41,7 @@ Clone the repository:
 
 git clone : (https://github.com/yeabsraabera/RIDE-Data-analytics-Graduation-project-)
 Open the analysis notebook:
+
 
 jupyter notebook analysis.ipynb
 
